@@ -24,6 +24,10 @@ Como observamos, acima, o ROC possui dois parâmetros:
 É dado por $$\frac{q}{e}$$ true positives/(true positives + false negatives). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
 
 
+$$
+   f(x,y) = \sin(x+y)
+$$
+
 
 ### **Taxa de falso positivo** (False Positive Rate ou 1 - ESPECIFICIDADE ):
 
