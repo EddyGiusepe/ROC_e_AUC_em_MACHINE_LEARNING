@@ -20,10 +20,14 @@ O ``AUC`` representa o grau ou medida de separabilidade. Quanto maior o AUC, mel
 
 Como observamos, acima, o ROC possui dois parâmetros:
 
-## **Taxa de verdadeiro positivo** (True Positive Rate), que é dado por _true positives_/(_true positives_ + _false negatives_). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
+## **Taxa de verdadeiro positivo** (True Positive Rate):
+
+que é dado por true positives/(true positives + false negatives). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
 
 
-## **Taxa de falso positivo** (False Positive Rate), que é dado por _false positives_/(_false positives_ + _true negatives_). A taxa de falsos positivos também é conhecida como probabilidade de alarme falso ( fall-out or probability of false alarm) e pode ser calculada como (1 — Specificity). A Specificity (especificidade) também é conhecida como true negative rate. Por exemplo, quantas pessoas sem uma doença (true negative) foi classificadas como sadias.
+## **Taxa de falso positivo** (False Positive Rate):
+
+que é dado por false positives/(false positives + true negatives). A taxa de falsos positivos também é conhecida como probabilidade de alarme falso ( fall-out or probability of false alarm) e pode ser calculada como (1 — Specificity). A Specificity (especificidade) também é conhecida como true negative rate. Por exemplo, quantas pessoas sem uma doença (true negative) foi classificadas como sadias.
 
 
 
