@@ -5,7 +5,6 @@
 
 Como sabemos, em aprendizagem de máquina, a medição de desempenho é uma tarefa crucial. As métricas ``ROC`` (_Receiver Operating Characteristics_) e ``AUC`` (_Area Under The Curve_) são as mais utilizadas para medir o desempenho de modelos de classificação.
 
-$\frac{a}{b}=\frac{c}{d}$
 
 ## O que que é ROC e AUC ?
 
@@ -22,7 +21,7 @@ Como observamos, acima, o ROC possui dois parâmetros:
 
 ### **Taxa de verdadeiro positivo** (True Positive Rate ou SENSIBILIDADE):
 
-É dado por $\frac{q}{e}$ true positives/(true positives + false negatives). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
+É dado por $$\frac{q}{e}$$ true positives/(true positives + false negatives). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
 
 
 
