@@ -21,11 +21,8 @@ Como observamos, acima, o ROC possui dois parâmetros:
 
 ### **Taxa de verdadeiro positivo** (True Positive Rate ou SENSIBILIDADE):
 
-É dado por $$\frac{q}{e}$$ true positives/(true positives + false negatives). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
+É dado por true positives/(true positives + false negatives). Essa taxa também é conhecida como sensibilidade, recordação ou probabilidade de detecção (sensitivity, recall ou probability of detection)
 
-\begin{equation}
- f(x,y) = \sin(x+y)
-\end{equation}
 
 
 
@@ -35,20 +32,7 @@ Como observamos, acima, o ROC possui dois parâmetros:
 
 Assim, para simplificar a curva ROC, foi criada a AUC. A AUC resume a curva ROC num único valor, calculando a “área sob a curva”.
 
+![image](https://user-images.githubusercontent.com/69597971/151717554-ab801b0e-f128-473e-b734-089a04740a2a.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Na Figura é mostrado duas AUC (A e B). A área de A é maior que a área de B, com isso, o desempenho de A é maior que o desempenho de B.
 
