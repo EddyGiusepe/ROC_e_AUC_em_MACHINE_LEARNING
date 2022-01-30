@@ -36,3 +36,17 @@ Assim, para simplificar a curva ROC, foi criada a AUC. A AUC resume a curva ROC 
 
 Na Figura é mostrado duas AUC (A e B). A área de A é maior que a área de B, com isso, o desempenho de A é maior que o desempenho de B.
 
+Um modelo excelente tem AUC próximo ao 1, o que significa que tem boa medida de separabilidade. Um modelo pobre tem AUC próximo do 0, o que significa que tem a pior medida de separabilidade, ou seja, está prevendo 0s como 1s e 1s como 0s. E quando a AUC é 0,5, significa que o modelo não tem capacidade de separação de classe.
+
+**NOTA:**
+
+* Aqui vamos plotar a curva AUC para o dataset Breast Cancer.
+
+
+
+
+Thanks God!
+
+
+
+
