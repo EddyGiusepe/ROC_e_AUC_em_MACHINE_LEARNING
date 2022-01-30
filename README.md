@@ -5,7 +5,7 @@
 
 Como sabemos, em aprendizagem de máquina, a medição de desempenho é uma tarefa crucial. As métricas ``ROC`` (_Receiver Operating Characteristics_) e ``AUC`` (_Area Under The Curve_) são as mais utilizadas para medir o desempenho de modelos de classificação.
 
-
+$\frac{a}{b}=\frac{c}{d}$
 
 ## O que que é ROC e AUC ?
 
