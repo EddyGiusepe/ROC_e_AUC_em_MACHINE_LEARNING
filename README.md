@@ -43,7 +43,7 @@ Um modelo excelente tem AUC próximo ao 1, o que significa que tem boa medida de
 * Aqui vamos plotar a curva AUC para o dataset Breast Cancer.
 
 
-$ e^{i \pi}$
+$ e^{i \pi} $
 
 Thanks God!
 
