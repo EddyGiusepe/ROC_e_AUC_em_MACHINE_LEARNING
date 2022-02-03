@@ -42,6 +42,9 @@ Um modelo excelente tem AUC próximo ao 1, o que significa que tem boa medida de
 
 * Aqui vamos plotar a curva AUC para o dataset Breast Cancer.
 
+* O seguinte vídeo é fortemente recomendado para o entendimento desta MÉTRICA: [ROC and AUC, Clearly Explained](https://www.youtube.com/watch?v=4jRBRDbJemM&t=276s).
+
+
 
 
 Thanks God!
