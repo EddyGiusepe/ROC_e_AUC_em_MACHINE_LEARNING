@@ -44,7 +44,6 @@ Um modelo excelente tem AUC próximo ao 1, o que significa que tem boa medida de
 
 
 
-
 Thanks God!
 
 
